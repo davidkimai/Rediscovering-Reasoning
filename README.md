@@ -6,6 +6,10 @@
 
 <div align="center">
 
+### [`🜏 recursive-reasoning-engine.py 🜏`](https://claude.ai/public/artifacts/a9582067-d7ee-4d9c-ab70-8a19b17bf9f9) | [`🜏 pattern-mapping.py 🜏`](https://claude.ai/public/artifacts/c616ac77-0488-42fe-88dc-bcdf8bbc1fbe) | [`🜏 README.md 🜏`](https://claude.ai/public/artifacts/e130797e-3046-44d3-b60c-d59a70c7f505) 
+
+
+
 
 [![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
